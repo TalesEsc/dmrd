@@ -1,0 +1,10 @@
+{
+  "name" : " ",
+  "description" : " ",
+  "version" : " ",
+  "manifest_version" : 3,
+  "action" : {
+    "default_popup" : "razi.html",
+    "default_icon" : "razi_icon.png"
+  }
+}
